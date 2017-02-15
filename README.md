@@ -1,5 +1,5 @@
-# Paris sportif
-Un outil de gestion de paris sportif créé en terminale (vers la fin de l'année 2014).
+# Paris sportifs
+Un outil de gestion de paris sportifs créé en terminale (vers la fin de l'année 2014).
 
 ### Pour le lancer
 Vous avez accès à la version graphique en lançant le fichier pari_interface.pyw.  
