@@ -1,5 +1,5 @@
 # Paris sportifs
-### Introduction
+## Introduction
 Un outil de gestion de paris sportifs créé en terminale (vers la fin de l'année 2014). Je l'ai développé seul.  
 
 
@@ -8,16 +8,16 @@ Ce logiciel permet de bien tenir un historique des paris sportifs. Je connaissai
 
 C'est tout le but de ce logiciel qui permet de connaitre d'un simple coup d'oeil sa balance et de savoir si elle est positive ou négative.
 
-### Pour le lancer
+## Utilisation du logiciel
 Les commandes qui vont suivres sont donné pour un système linux (testé sous Ubuntu).
 
 
-##### Dépendances nécéssaires
+#### Dépendances nécéssaires
 Ce programme utilise la bibliotèheque tkinter. Celle-ci s'installe sur Ubuntu par exemple avec la commande suivante :  
 `
 sudo apt-get install python3-tk
 `
-##### Procédure de lancement
+#### Procédure de lancement
 Après avoir cloné ce dépot, vous avez accès à la version graphique en lançant le fichier pari_interface.pyw avec la commande suivante :  
 `
 python3 pari_interface.pyw
@@ -29,5 +29,5 @@ Une version ligne de commande existe également en lançant pari_interface_comma
 python3 pari_interface_commande.py
 `
 
-### Capture d'écran
+## Capture d'écran
 ![Capture d'écran 1](http://i.imgur.com/ng87LXn.jpg)
