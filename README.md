@@ -30,4 +30,4 @@ python3 pari_interface_commande.py
 `
 
 ### Capture d'écran
-![img](http://imgur.com/ng87LXn)
+![Capture d'écran 1](http://i.imgur.com/ng87LXn.jpg)
